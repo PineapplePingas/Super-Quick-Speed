@@ -1,0 +1,34 @@
+[
+ {
+   "name": "Super Quick",
+   "modifier": 0.50,
+   "productionCostModifier": 0.50,
+   "goldCostModifier": 0.50,
+   "scienceCostModifier": 0.50, 
+   "cultureCostModifier": 0.50,
+   "faithCostModifier": 0.50, 
+   "improvementBuildLengthModifier": 0.50, 
+   "barbarianModifier": 0.50,
+   "goldGiftModifier": 0.75,
+   "cityStateTributeScalingInterval": 2.5,
+   "goldenAgeLengthModifier": 0.40,
+   "religiousPressureAdjacentCity": 4.5, 
+   "peaceDealDuration": 10, 
+   "dealDuration": 25, 
+   "startYear": -4000, 
+   "turns": [ 
+   .          {"yearsPerTurn": 1000, "untilTurn": 1},
+              {"yearsPerTurn": 700, "untilTurn": 3},
+              {"yearsPerTurn": 500, "untilTurn": 5}, 
+              {"yearsPerTurn": 300, "untilTurn": 10}, 
+              {"yearsPerTurn": 200, "untilTurn": 15},  
+              {"yearsPerTurn": 100, "untilTurn": 50}, 
+              {"yearsPerTurn": 50, "untilTurn": 100}, 
+              {"yearsPerTurn": 10, "untilTurn": 200} 
+              
+              
+               ]
+            }
+             
+           ]
+   
